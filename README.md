@@ -15,12 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Aditya Chandrasekhar and I'm a Sophomore studying Computer Science. I'm from India, currently studying in [Nanyang Technological University](https://www.ntu.edu.sg/Pages/home.aspx), Singapore.
+My name is Aditya Chandrasekhar and I'm a Sophomore studying Computer Science. I'm from India, currently studying in [Nanyang Technological University](https://www.ntu.edu.sg/Pages/home.aspx), Singapore. One of my goals for the upcoming year is to contribute more to Open Source Projects. 
 
 <br/>
 
 ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Aditya239233&show_icons=true&theme=radical)
-
 <br/>
 
 ## Blog posts
@@ -29,4 +28,7 @@ My name is Aditya Chandrasekhar and I'm a Sophomore studying Computer Science. I
 - [Predicting Energy Consumption using Neural Networks and historical temperature data](https://medium.com/@aditya021/predicting-energy-consumption-using-neural-networks-and-historical-temperature-data-f93f27caa0e7?source=rss-402f56785bb9------2)
 <!-- BLOG-POST-LIST:END -->
 
-Connect with me on  Linkedin
+## Connect with me
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya021/)
+&nbsp; &nbsp;
+[![email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](aditya021@e.ntu.edu.sg)

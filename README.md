@@ -22,7 +22,7 @@ My name is Aditya Chandrasekhar and I'm a Sophomore studying Computer Science. I
 ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Aditya239233&show_icons=true&theme=radical)
 <br/>
 
-## Blog posts
+## :memo: Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Analysis of the Software Architecture of Netflix](https://medium.com/@aditya021/analysis-of-the-software-architecture-of-netflix-d2493bbf4db9?source=rss-402f56785bb9------2)
 - [Predicting Energy Consumption using Neural Networks and historical temperature data](https://medium.com/@aditya021/predicting-energy-consumption-using-neural-networks-and-historical-temperature-data-f93f27caa0e7?source=rss-402f56785bb9------2)
@@ -31,4 +31,4 @@ My name is Aditya Chandrasekhar and I'm a Sophomore studying Computer Science. I
 ## Connect with me
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya021/)
 &nbsp; &nbsp;
-[![email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](aditya021@e.ntu.edu.sg)
+[![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://aditya021.medium.com/)

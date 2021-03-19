@@ -24,8 +24,8 @@ My name is Aditya Chandrasekhar and I'm a Sophomore studying Computer Science in
 
 ## :memo: Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Analysis of the Software Architecture of Netflix](https://medium.com/@aditya021/analysis-of-the-software-architecture-of-netflix-d2493bbf4db9?source=rss-402f56785bb9------2)
-- [Predicting Energy Consumption using Neural Networks and historical temperature data](https://medium.com/@aditya021/predicting-energy-consumption-using-neural-networks-and-historical-temperature-data-f93f27caa0e7?source=rss-402f56785bb9------2)
+- [Analysis of the Software Architecture of Netflix](https://aditya021.medium.com/analysis-of-the-software-architecture-of-netflix-d2493bbf4db9?source=rss-402f56785bb9------2)
+- [Predicting Energy Consumption using Neural Networks and historical temperature data](https://aditya021.medium.com/predicting-energy-consumption-using-neural-networks-and-historical-temperature-data-f93f27caa0e7?source=rss-402f56785bb9------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me

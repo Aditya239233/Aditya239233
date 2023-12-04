@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Aditya Chandrasekhar and I'm a Sophomore studying Computer Science in [Nanyang Technological University](https://www.ntu.edu.sg/Pages/home.aspx), Singapore. One of my goals for the upcoming year is to contribute more to Open Source Projects. 
+My name is Aditya Chandrasekhar and I'm a Software Engineer at [United Overseas Bank](https://www.uob.com.sg/personal/index.page), Singapore. I love software automation and looking for cool ideas to bring to life
 
 <br/>
 
